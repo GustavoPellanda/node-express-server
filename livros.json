@@ -1,0 +1,83 @@
+[
+    {
+      "id": "1",
+      "nome": "A Guerra dos Tronos - George R. R. Martin. Uma saga épica de fantasia que acompanha a luta pelo trono de ferro de Westeros, envolvendo casas nobres, dragões e intrigas políticas."
+    },
+    {
+      "id": "2",
+      "nome": "1984 - George Orwell. Uma distopia sombria que retrata um futuro totalitário onde a liberdade individual é reprimida pelo Grande Irmão."
+    },
+    {
+      "id": "3",
+      "nome": "Dom Quixote - Miguel de Cervantes. Uma das obras mais importantes da literatura espanhola, seguindo as aventuras e desventuras de um cavaleiro idealista."
+    },
+    {
+      "id": "4",
+      "nome": "O Senhor dos Anéis - J.R.R. Tolkien. Uma jornada épica de fantasia que segue um grupo de heróis em busca de destruir o anel do poder e derrotar o senhor do escuro, Sauron."
+    },
+    {
+      "id": "5",
+      "nome": "Crime e Castigo - Fiódor Dostoiévski. Um romance psicológico que explora as complexidades da mente humana, com ênfase na culpa e redenção."
+    },
+    {
+      "id": "6",
+      "nome": "Orgulho e Preconceito - Jane Austen. Uma história de amor e classes sociais na Inglaterra do século XIX, com personagens cativantes e diálogos afiados."
+    },
+    {
+      "id": "7",
+      "nome": "O Pequeno Príncipe - Antoine de Saint-Exupéry. Uma fábula encantadora sobre a amizade, a inocência e a importância de ver o mundo através dos olhos de uma criança."
+    },
+    {
+      "id": "8",
+      "nome": "Harry Potter e a Pedra Filosofal - J.K. Rowling. O primeiro livro da série Harry Potter, que conta a história de um jovem bruxo que descobre seu destino mágico e enfrenta o malvado Lorde Voldemort."
+    },
+    {
+      "id": "9",
+      "nome": "Cem Anos de Solidão - Gabriel García Márquez. Um épico mágico que narra a história da família Buendía e a fundação de Macondo, repleto de realismo mágico."
+    },
+    {
+      "id": "10",
+      "nome": "O Retrato de Dorian Gray - Oscar Wilde. Um conto gótico que explora a decadência moral de um homem cujo retrato envelhece enquanto ele permanece eternamente jovem."
+    },
+    {
+      "id": "11",
+      "nome": "A Revolução dos Bichos - George Orwell. Uma sátira política que apresenta uma fazenda onde os animais tomam o poder dos humanos, mas a utopia se transforma em tirania."
+    },
+    {
+      "id": "12",
+      "nome": "Hamlet - William Shakespeare. Uma das maiores tragédias de Shakespeare, seguindo o príncipe dinamarquês Hamlet em sua busca por vingança contra o assassino de seu pai."
+    },
+    {
+      "id": "13",
+      "nome": "O Grande Gatsby - F. Scott Fitzgerald. Um retrato da sociedade americana da década de 1920, cheio de glamour, decadência e sonhos desfeitos."
+    },
+    {
+      "id": "14",
+      "nome": "A Odisséia - Homero. Uma epopeia grega que segue as aventuras do herói Odisseu em sua jornada para retornar para casa após a Guerra de Troia."
+    },
+    {
+      "id": "15",
+      "nome": "Moby Dick - Herman Melville. Uma história épica sobre a caça à baleia branca, capitaneada pelo obsessivo e enigmático Capitão Ahab."
+    },
+    {
+      "id": "16",
+      "nome": "O Morro dos Ventos Uivantes - Emily Brontë. Uma história intensa e trágica de amor e vingança que se desenrola em torno da família Earnshaw na sombria charneca inglesa."
+    },
+    {
+      "id": "17",
+      "nome": "Anna Karenina - Liev Tolstói. Um romance clássico russo que explora temas de amor, traição, sociedade e moralidade através da vida de Anna Karenina."
+    },
+    {
+      "id": "18",
+      "nome": "As Crônicas de Nárnia - C.S. Lewis. Uma série de fantasia amada por crianças e adultos, que narra as aventuras de crianças em um mundo mágico chamado Nárnia."
+    },
+    {
+      "id": "19",
+      "nome": "O Apanhador no Campo de Centeio - J.D. Salinger. Um romance icônico que segue as reflexões de um adolescente alienado, Holden Caulfield, em sua jornada pela cidade de Nova York."
+    },
+    {
+      "id": "20",
+      "nome": "A Metamorfose - Franz Kafka. Uma novela perturbadora que conta a história de Gregor Samsa, que acorda certa manhã transformado em um inseto monstruoso."
+    }
+  ]
+  
