@@ -14,6 +14,9 @@ function getLivroEspecifico(req, res) {
     try{
         const id = req.params.id;
         const livro = getLivroPorId(id);
+         if (!livro) {
+            res.status(404).json({ error: "Livro não encontrado", message: `O livro com ID ${id} não foi encontrado` });
+        }
         res.send(livro);
     } catch(error) {
         res.status(500);
